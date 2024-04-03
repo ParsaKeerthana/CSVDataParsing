@@ -1,0 +1,3 @@
+/Users/keerthanaparsa/CLionProjects/Trial/cmake-build-debug/CMakeFiles/Trial.dir
+/Users/keerthanaparsa/CLionProjects/Trial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/keerthanaparsa/CLionProjects/Trial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
